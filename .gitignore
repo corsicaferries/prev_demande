@@ -1,0 +1,17 @@
+*.csv
+*.parquet
+
+conf_local.py
+
+draft*
+
+data/*
+
+output/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/*
+*.py[cod]
+*$py.class
+.pyc
+
