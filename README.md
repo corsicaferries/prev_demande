@@ -7,6 +7,7 @@ https://www.notion.so/corsicaferries/Pr-vision-de-la-demande-183c81017ace802394f
 
 ```conda create --prefix ./envs/env_prev_dem_dev python=3.12```
  
- ```conda install pandas=2.2.3 xgboost=2.1.1  plotly=5.24.1 seaborn=0.13.2 scikit-learn=1.6.1 matplotlib=3.10.0 fastparquet==2024.2.0```
+ ```conda install pandas=2.2.3 xgboost=2.1.1  plotly=5.24.1 seaborn=0.13.2 scikit-learn=1.6.1 matplotlib=3.10.0 fastparquet==2024.2.0 openpyxl=3.1.5 ```
  
+ packages dev qui ne seront pas utiles en prod: plotly, seaborn, matplotlib
 
