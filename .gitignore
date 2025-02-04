@@ -9,6 +9,10 @@ data/*
 
 output/*
 
+df_final.xlsx
+
+df_maille_aggregee.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/*
 *.py[cod]
